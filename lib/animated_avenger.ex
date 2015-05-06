@@ -1,0 +1,2 @@
+defmodule AnimatedAvenger do
+end
